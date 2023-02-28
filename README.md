@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The live url for the site:https://euphonious-entremet-658195.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
